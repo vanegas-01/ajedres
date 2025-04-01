@@ -1,0 +1,35 @@
+body {
+    background-color: #439899;
+    text-align: center; 
+    background-image: url("images/chess.jpg"); 
+    text-transform: uppercase; 
+}
+.contenedor{
+    background: rgba(10, 28, 16, 6);
+    width: 60%; 
+    height: 480px; 
+    background: #155; 
+    margin: 0 auto; 
+    border: 3px solid #000; 
+    border-radius: 4px; 
+}
+
+.blanco{
+    width: 60px;
+    height: 60px;
+    background: white;
+}
+
+.negro{
+    width: 60px;
+    height: 60px;
+    background: black;
+
+}
+
+.col-a{
+    width: 60px; z-index: 100;
+}
+
+.ficha-black
+    
